@@ -4,9 +4,9 @@
 * jangan ubah semuanya kecuali nama bot instagram yt itu ajah yg lain jangan!!!
 * hargai pembuat skrip woy!!!
 */
-const XPTN = 'BANGLENT'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/maslent11'; // Nama Instagramlu cok
-const nomer = 'https://Wa.me/+628165466368'; // Nomor whatsapplu cok
+const XPTN = 'Zxy Bot'; // Nama Bot Whatsapp
+const instagram = 'https://instagram.com/_its.rival'; // Nama Instagramlu cok
+const nomer = 'https://Wa.me/+6285762102148'; // Nomor whatsapplu cok
 const aktif = '2 jam'; // Kapan bot lu aktif
 const groupwa = 'https://chat.whatsapp.com/IKmRs4a36fIAyn7X16jpwL'; // OFFICIAL GRUP LU 1
 const youtube = 'https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA'; // OFFICIAL GRUP LU 2
